@@ -1,54 +1,56 @@
 # 👋 Hey there, I'm Fellah Faizel!
 
-🎓 CSE Student | 💡 Aspiring ML Engineer | 🧠 Backend & Data Enthusiast
-
-I'm passionate about solving real-world problems through intelligent systems and data-driven applications. Whether it’s crafting scalable backend services in Go or building smart ML-powered tools, I’m always exploring new ways to bring ideas to life.
+🎯 Aspiring Machine Learning Engineer | 🔧 Backend Developer  
+🚀 Passionate about building smart, scalable, and real-world tech solutions.
 
 ---
 
-## 🔧 Tech Toolbox
+## 💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I'm currently a backend developer skilled in building intelligent systems and APIs using Python, Go, and modern databases like Neo4j and MongoDB. With a strong foundation in Computer Science, I’m now diving deeper into Machine Learning and Deep Learning to create systems that learn and adapt.
+
+---
+
+## 🛠️ Tech Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 [WikiGraph](https://github.com/fellahfaizel/WikiGraph)
-> A natural language graph search engine built with Go and Neo4j  
-> 🗣️ Understands queries like `What awards did Einstein win?`
+Natural Language Graph Search Engine  
+→ Built with Go and Neo4j, supports queries like _"What did Einstein win?"_  
+→ Includes entity extraction, intent classification, and Cypher-based querying
 
-- Entity recognition with `prose`
-- Intent classification via Python NLP API
-- Knowledge extraction from Neo4j using Cypher queries
-
----
-
-## 🌱 Currently Learning
-
-- ⚙️ Low-level Systems Design
-- 🤖 Deep Learning & Transformers
-- 🌐 WebAssembly and Edge Computing
+### 🏠 [DomSev](https://github.com/fellahfaizel/DomSev)
+Household Services API  
+→ Node.js & MongoDB backend for managing user service requests  
+→ JWT-based auth, Twilio OTP, admin/user roles, and full REST API structure
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
-![Faizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fellahfaizel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellahfaizel&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+- 🔍 Machine Learning Algorithms & Math
+- 🤖 Deep Learning Libraries (TensorFlow, PyTorch)
+- 🧠 ML Ops & Model Deployment
 
 ---
 
-> 💬 *“Code is the closest thing we have to magic.”*  
+## 📬 Let’s Connect
+
+- 📧 Email: [faizelfellah@gmail.com](mailto:faizelfellah@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/fellah-faizel](http://www.linkedin.com/in/fellah-faizel)
+
+---
+
+> _"Learning never exhausts the mind. It only ignites it."_ 🔥
