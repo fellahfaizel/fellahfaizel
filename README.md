@@ -31,7 +31,7 @@ Natural Language Graph Search Engine
 → Built with Go and Neo4j, supports queries like _"What did Einstein win?"_  
 → Includes entity extraction, intent classification, and Cypher-based querying
 
-### 🏠 [DomSev](https://github.com/fellahfaizel/DomSev)
+### 🏠 [DomSev](https://github.com/fellahfaizel/dom_sev)
 Household Services API  
 → Node.js & MongoDB backend for managing user service requests  
 → JWT-based auth, Twilio OTP, admin/user roles, and full REST API structure
